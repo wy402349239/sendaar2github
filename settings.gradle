@@ -1,0 +1,3 @@
+include ':aarlibrary'
+include ':app'
+rootProject.name = "Sendaar"
